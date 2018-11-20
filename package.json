@@ -1,0 +1,19 @@
+{
+  "name": "primeiro-pacote-npm",
+  "version": "1.0.0",
+  "description": "Meu primeiro pacote npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/anderson17ads/primeiro-pacote-npm.git"
+  },
+  "author": "Anderson de Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anderson17ads/primeiro-pacote-npm/issues"
+  },
+  "homepage": "https://github.com/anderson17ads/primeiro-pacote-npm#readme"
+}
